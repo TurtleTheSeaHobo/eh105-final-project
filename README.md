@@ -20,8 +20,8 @@ To build the document, make sure you have the following installed:
 
 First, clone and enter the repository on your machine:
 
-``$ git clone https://github.com/TurtleTheSeaHobo/eh105-final-project.git
-$ cd eh105-final-project``
+`$ git clone https://github.com/TurtleTheSeaHobo/eh105-final-project.git`  
+`$ cd eh105-final-project`
 
 Then build the document using the Makefile:
 
